@@ -1,0 +1,21 @@
+10:46 am 18/07/2023
+Chào các bạn,
+
+Mình gửi các biểu mẫu để thực hành On Job Traning:
+- Test Plan (Mau_BM07.16_KeHoachKiemDinh)
+- Test Requirement, Test Case, Bug Report (OJT_Template_Group1)
+
+Mỗi nhóm thực hiện lập Test Plan, viết Test Requirement,Test Case, Bug Report cho website
+http://115.78.231.102:9000/DienMayDo/ 
+
+Thời hạn nộp:
+- Test Plan: 17/07/2023
+- Test Requirement, Test Case, Bug Report: 31/07/2023
+
+Nhóm 5:
+Lê Ngọc Phương Đình
+Lâm Tuyết Như
+Phạm Hoàng Minh
+Dương Tuấn Dũng
+
+Nhóm trưởng: Lê Ngọc Phương Đình
